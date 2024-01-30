@@ -1,0 +1,6 @@
+model_checkpoint_path: "model.ckpt"
+all_model_checkpoint_paths: "../../2_result/down_sampled_he2he_FrameFreq1/0040/model.ckpt"
+all_model_checkpoint_paths: "../../2_result/down_sampled_he2he_FrameFreq1/0045/model.ckpt"
+all_model_checkpoint_paths: "../../2_result/down_sampled_he2he_FrameFreq1/0050/model.ckpt"
+all_model_checkpoint_paths: "../../2_result/down_sampled_he2he_FrameFreq1/0055/model.ckpt"
+all_model_checkpoint_paths: "model.ckpt"
